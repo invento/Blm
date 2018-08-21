@@ -1,5 +1,5 @@
 {
-    "name": "invento/blm",
+    "name": "mattcannon/blm",
     "description": "Rightmove BLM Parser",
     "require": {
         "illuminate/support": "5.*",
